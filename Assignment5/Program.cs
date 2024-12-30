@@ -31,6 +31,24 @@
             //    Winter
             //}
             #endregion
+
+
+
+            #region Question 04
+            //4.Assign the following Permissions (Read, write, Delete, Execute) in a form of Enum.
+            //Create Variable from previous Enum to Add and Remove Permission from variable, check if specific Permission is existed inside variable
+
+            //[Flags]
+            //public enum Permissions
+            //{
+            //    Read = 1,
+            //    Write = 2, 
+            //    Delete = 4,
+            //    Execute = 8,
+            //}
+            #endregion
+
+
         }
     }
 }
